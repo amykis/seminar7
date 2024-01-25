@@ -1,0 +1,14 @@
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\bin\Debug\net8.0\tasks.exe
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\bin\Debug\net8.0\tasks.deps.json
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\bin\Debug\net8.0\tasks.runtimeconfig.json
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\bin\Debug\net8.0\tasks.dll
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\bin\Debug\net8.0\tasks.pdb
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\obj\Debug\net8.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\obj\Debug\net8.0\tasks.AssemblyInfoInputs.cache
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\obj\Debug\net8.0\tasks.AssemblyInfo.cs
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\obj\Debug\net8.0\tasks.csproj.CoreCompileInputs.cache
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\obj\Debug\net8.0\tasks.dll
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\obj\Debug\net8.0\refint\tasks.dll
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\obj\Debug\net8.0\tasks.pdb
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\obj\Debug\net8.0\tasks.genruntimeconfig.cache
+D:\KursGeekBrains\Git_education_C#\seminar7\tasks\obj\Debug\net8.0\ref\tasks.dll
